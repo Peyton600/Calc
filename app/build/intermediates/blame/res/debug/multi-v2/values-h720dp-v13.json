@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "U:\\android projects\\Calc\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\904935\\.gradle\\caches\\transforms-2\\files-2.1\\278f1b607529d3cddb126916762878be\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
